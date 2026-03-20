@@ -3,8 +3,8 @@ https://www.amazon.fr/promotions-bons-plans/b/?ie=UTF8&node=51375011
 https://www.amazon.fr/super/?_encoding=UTF8
 https://www.amazon.fr/deals
 https://www.amazon.fr/auto-deliveries/landing
-https://www.amazon.fr/selection-outlet/b/?ie=UTF8&node=10056877031
 https://www.amazon.fr/gp/bestsellers/?ie=UTF8
+https://www.amazon.fr/selection-outlet/b/?ie=UTF8&node=10056877031
 https://www.amazon.fr/b/?ie=UTF8&node=10675213031
 https://www.amazon.fr/b/?ie=UTF8&node=12123563031
 https://www.amazon.fr/b/?ie=UTF8&node=1325595031
@@ -18,6 +18,7 @@ https://www.amazon.fr/bebe-puericulture/b/?ie=UTF8&node=206617031
 https://www.amazon.fr/cuisine-maison-%C3%A9lectrom%C3%A9nager/b/?ie=UTF8&node=57004031
 https://www.amazon.fr/ebooks-kindle/b/?ie=UTF8&node=695398031
 https://www.amazon.fr/fmc/everyday-essentials
+https://www.amazon.fr/gp/bestsellers/
 https://www.amazon.fr/gp/browse.html/?node=27173183031
 https://www.amazon.fr/gp/browse.html?node=11961521031
 https://www.amazon.fr/gp/browse.html?node=98209018031
@@ -31,15 +32,10 @@ https://www.amazon.fr/jeux-video-consoles-portables-accessoires-pc/b/?ie=UTF8&no
 https://www.amazon.fr/livre-achat-occasion-litterature-roman/b/?ie=UTF8&node=301061
 https://www.amazon.fr/photo-TV-mp3-Hifi-GPS/b/?ie=UTF8&node=13921051
 https://www.amazon.fr/sports-loisirs-fitness/b/?ie=UTF8&node=325614031
-https://www.amazon.fr/gp/bestsellers/
-https://www.amazon.fr/gp/help/customer/display.html?nodeId=508510
+https://advertising.amazon.fr/products-self-serve
 https://www.amazon.fr/amazonbasics/?field-lbr_brands_browse-bin=AmazonBasics
 https://www.amazon.fr/b/?node=14839058031
-https://www.amazon.fr/prime
-https://www.amazon.fr/cheques-cartes-cadeaux/b/?ie=UTF8&node=2524127031
 https://www.amazon.fr/b/?node=2383619031&ld=AZFRGNOSellC
-https://advertising.amazon.fr/products-self-serve
+https://www.amazon.fr/prime
 https://services.amazon.fr/services/expedie-par-amazon/outils-et-avantages.html/ref=az_fr_fba_ft?ld=AZFRFBAFooter
-https://partenaires.amazon.fr
-https://supply.amazon.com/?lang=fr-FR
-https://www.amazon.fr/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.fr%2Fdeals%2F%3F_encoding%3DUTF8%26ref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=frflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0
+https://services.amazon.fr/services/vendre-aux-professionnels/avantages.html?ld=AZFRB2BRetailFooter
