@@ -1,10 +1,3 @@
-https://sell.amazon.fr/proprietaires-de-marques
-https://www.amazon.fr/Parfums-cosm%C3%A9tiques/b?ie=UTF8&node=197858031
-https://www.amazon.fr/auto-deliveries/landing
-https://www.amazon.fr/b?ie=UTF8&node=10675213031
-https://www.amazon.fr/b?ie=UTF8&node=17751878031
-https://www.amazon.fr/b?ie=UTF8&node=2383619031
-https://www.amazon.fr/bebe-puericulture/b?ie=UTF8&node=206617031
-https://www.amazon.fr/cuisine-maison-%C3%A9lectrom%C3%A9nager/b?ie=UTF8&node=57004031
-https://www.amazon.fr/fmc/everyday-essentials?almBrandId=cfr1WQ8obY
-https://www.amazon.fr/fmc/storefront?almBrandId=TW9ub3ByaXg
+https://sell.amazon.fr/expedie-par-amazon/europe
+https://sell.amazon.fr/expedie-par-amazon/nouveau-programme-de-selection
+https://sell.amazon.fr/grandir
